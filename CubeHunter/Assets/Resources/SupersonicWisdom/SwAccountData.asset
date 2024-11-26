@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bde5b51eef6a4560b2a2442b047a9a7, type: 3}
+  m_Name: SwAccountData
+  m_EditorClassIdentifier: 
+  titlesList:
+  - games: []
+    id: 
+    name: --- select ---
+  - games:
+    - adMobId: 
+      bundleId: com.aytektemel.cubehunter
+      facebookAppId: 616571713511669
+      gameAnalyticsKey: 1cde8e5cf5364fa841b2bd3edf797750
+      gameAnalyticsSecret: 47d82f1c8d43bac2ec8d90278bf57edf5bbafbd1
+      id: c4520f88-add5-43b2-9ad2-a3c60d79e11a
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.aytektemel.cubehunter
+    id: 675a2e67-6a77-4be6-bb60-6e5617c303dc
+    name: Cube Hunter
+  integrationGuideUrl: 
